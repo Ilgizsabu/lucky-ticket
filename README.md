@@ -1,4 +1,4 @@
-# lucky-ticket
+# Lucky-ticket
 The project is a program to determine if a tram ticket is lucky according to two systems: the Moscow system and the Saint Petersburg system.
 
 1. **Input**: The user enters a ticket number with 6 digits.
